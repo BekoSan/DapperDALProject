@@ -32,7 +32,7 @@ this is a visual studio project template , that creates a c# library project wit
 
 ### Part Two : Wire Up Projects
 
-1.Add the dapper library as reference in your project.
+1.Add the dapper DAL library as reference in your project.
 
 2.Open your program.cs or any file you want to use as connection Initializer in your project, and add this code :
 
