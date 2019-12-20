@@ -54,5 +54,12 @@
   <ItemGroup>
     <None Include="Readme.md" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Resources\DapperLibraryTemplete.png" />
+    <Content Include="Resources\DapperNewProject.png" />
+    <Content Include="Resources\DapperProjectAppConfig.png" />
+    <Content Include="Resources\DapperProjectSqlConnector.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
