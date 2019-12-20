@@ -4,9 +4,9 @@ this is a visual studio project template , that creates a c# library project wit
 
 ## Preview
 
-![Dapper New Project](Resources/DapperNewProject.png)
+![Dapper New Project](Images/DapperNewProject.png)
 
-![Dapper Library Templete](Resources/DapperLibraryTemplete.png)
+![Dapper Library Templete](Images/DapperLibraryTemplete.png)
 
 ## How To Use?
 
@@ -20,14 +20,14 @@ this is a visual studio project template , that creates a c# library project wit
 
 2.Open  your project app.config file add the connection string of your server.
 
-![Dapper Project App Config](Resources/DapperProjectAppConfig.png)
+![Dapper Project App Config](Images/DapperProjectAppConfig.png)
 
 
 #### Second Setup your Dapper Project
 
 - Open DataAccess\SqlConnector.cs File and change the db const varibale value to your connection string name in your app.config file.
 
-![Dapper Project Sql Connector](Resources/DapperProjectSqlConnector.png)
+![Dapper Project Sql Connector](Images/DapperProjectSqlConnector.png)
 
 
 ### Part Two : Wire Up Projects
