@@ -51,9 +51,6 @@
     <Compile Include="Models\DataModel1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Readme.md" />
-  </ItemGroup>
   <ItemGroup />
   <ItemGroup>
     <Content Include="Resources\DapperLibraryTemplete.png" />
